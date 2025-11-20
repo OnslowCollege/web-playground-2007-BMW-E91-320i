@@ -1,0 +1,77 @@
+h1 {
+	font-family: helvetica;
+	text-align: center;
+	color: grey;
+}
+
+h2 {
+	font-family: helvetica;
+	text-align:center;
+	color: rgb(50, 50, 50);
+}
+
+h3 {
+	font-family: helvetica;
+	color: dimgrey;
+	text-align: center;
+	font-size: 25px;
+}
+
+img {
+
+}
+
+p{ 
+	color: rgb(50, 50, 50);
+	font-family: bahnschrift;
+	font-size: 20px;
+	display: inline;
+	margin-right: 5px;
+  	margin-left: 5px;
+	
+}
+
+hr{
+	background-color: black;
+	height: 2px;
+	border: none;
+}
+
+span{
+	font-size: 23px;
+	color: rgb(30, 30, 30);
+}
+
+li{
+	font-family: bahnschrift;
+	color:rgb(216, 216, 216);
+	margin-inline: 10px;
+	font-size:18px;
+	float: left;
+	list-style-type: none;
+}
+
+nav{
+	background-color: rgb(79, 79, 79);
+}
+
+a:link {
+  color: rgb(0, 56, 85);
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(0, 56, 85);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(0, 75, 196);
+  text-decoration: underline;
+}
+
+a:active {
+  color: rgb(122, 122, 122);
+  text-decoration: underline;
+}
+	
